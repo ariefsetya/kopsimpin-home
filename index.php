@@ -101,7 +101,7 @@
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <h2 class="section-heading">Ayo berubah dari sekarang</h2>
                     <hr class="light">
-                    <p class="text-faded">Koperasi Simpan Pinjam Online memudahkan Anda melakukan transaksi Koperasi, mulai dari pendataan Anggota, pencatatan transaksi simpanan, pinjaman dan pembayaran angsuran serta print out bukti pembayaran angsuran yang modern</p>
+                    <p class="text-faded">Koperasi Simpan Pinjam Online memudahkan Anda melakukan transaksi Koperasi, mulai dari pendataan Anggota, pencatatan transaksi simpanan, pinjaman dan pembayaran angsuran serta print out bukti pembayaran angsuran secara online. Dapat dilakukan dimana saja dan kapan saja. Menarik bukan?</p>
                     <a target="_blank" href="http://demo.kopsimpin.net/auth/register" class="btn btn-default btn-xl">Daftar Sekarang!</a>
                 </div>
             </div>
@@ -169,7 +169,7 @@
                 </div>
                 <div class="col-lg-2 text-center">
                     <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
-                    <p><a href="mail-to:your-email@your-domain.com">ariefsetya@live.com</a></p>
+                    <p><a href="mailto:kopsimpin.net@gmail.com">kopsimpin.net@gmail.com</a></p>
                 </div>
             </div>
         </div>
