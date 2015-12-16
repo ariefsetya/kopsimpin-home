@@ -5,11 +5,21 @@
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="product" content="kopsimpin.net">
+    <meta name="author" content="kopsimpin.net">
+    <meta name="keywords" content="Koperasi Simpan Pinjam Online, Koperasi Online, Kopsimpin, Koperasi">
+    <meta name="description" content="Anda dapat mengecek tagihan anggota, membuat catatan simpanan anggota dan membuat catatan pinjaman anggota kapanpun dimanapun!">
+    <meta property="og:type" content="article" />
+    <meta property="og:image" content="http://kopsimpin.net/img/koperasi_simpan_pinjam.png" />
+    <meta property="article:publisher" content="https://www.facebook.com/kopsimpin.net" />
+    <meta property="article:author" content="https://www.facebook.com/kopsimpin.net" />
+    <meta property="og:url" content="http://kopsimpin.net/" />
+    <link rel="publisher" href="https://plus.google.com/u/3/103958188081794854639/"/>
+    <link href="http://kopsimpin.com/favicon.png" rel="shortcut icon">
+    <link href="http://kopsimpin.com/favicon.png" rel="favicon">
 
-    <title>Kopsimpin.net - Koperasi Simpan Pinjam Online</title>
+    <title>Koperasi Simpan Pinjam Online</title>
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
@@ -92,7 +102,7 @@
                     <h2 class="section-heading">Ayo berubah dari sekarang</h2>
                     <hr class="light">
                     <p class="text-faded">Koperasi Simpan Pinjam Online memudahkan Anda melakukan transaksi Koperasi, mulai dari pendataan Anggota, pencatatan transaksi simpanan, pinjaman dan pembayaran angsuran serta print out bukti pembayaran angsuran yang modern</p>
-                    <a href="#" class="btn btn-default btn-xl">Daftar Sekarang!</a>
+                    <a target="_blank" href="http://demo.kopsimpin.net/auth/register" class="btn btn-default btn-xl">Daftar Sekarang!</a>
                 </div>
             </div>
         </div>
