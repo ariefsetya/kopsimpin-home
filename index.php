@@ -159,7 +159,7 @@
                     <hr class="primary">
                     <p>Cukup hubungi kami dengan metode dibawah ini :)</p>
                 </div>
-                <div class="col-lg-2 col-lg-offset-3 text-center">
+                <div class="col-lg-3 col-lg-offset-2 text-center">
                     <i class="fa fa-whatsapp fa-3x wow bounceIn"></i>
                     <p><a target="_blank" href="https://web.whatsapp.com/">+62 ​812 8351 0002</a></p>
                 </div>
@@ -167,7 +167,7 @@
                     <i class="fa fa-facebook fa-3x wow bounceIn"></i>
                     <p><a target="_blank" href="https://www.facebook.com/ariefsetya13">ariefsetya13</a></p>
                 </div>
-                <div class="col-lg-2 text-center">
+                <div class="col-lg-3 text-center">
                     <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
                     <p><a href="mailto:kopsimpin.net@gmail.com">kopsimpin.net@gmail.com</a></p>
                 </div>
